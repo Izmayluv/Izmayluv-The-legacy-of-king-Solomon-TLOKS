@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: f56e0fc36990db041b817320c2948866
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sprite1: {instanceID: 0}
+  - sprite2: {instanceID: 0}
+  - parent: {instanceID: 0}
+  - Darkness: {fileID: 3930142190316287385, guid: e85d19107dbd9314e82b360903cc844b, type: 3}
+  - Darkness1: {fileID: 3930142190316287385, guid: b489e937ac49b2d4194731dd920a2b69, type: 3}
+  - Darkness2: {fileID: 3930142190316287385, guid: 123ffef0a03c47841a7a42f834c48483, type: 3}
+  - Darkness3: {fileID: 3930142190316287385, guid: 8749b52a0013d024b89516b537795d36, type: 3}
+  - Darkness4: {fileID: 3930142190316287385, guid: 2daa3b89b4ae18444894b243c2457f64, type: 3}
+  - Darkness5: {fileID: 3930142190316287385, guid: 74ad15693fec82f4b8d24131e6da7c37, type: 3}
+  - Lighting: {fileID: 3600866691961787951, guid: d836081128c85be44a26581373a52fc1, type: 3}
+  - Lighting1: {fileID: 3600866691961787951, guid: a12da31a6242c2c42a2dbcb8af727f0f, type: 3}
+  - Lighting2: {fileID: 3600866691961787951, guid: 4a7e1e92dbadde04ebbe7776bb1d47ae, type: 3}
+  - Lighting3: {fileID: 3600866691961787951, guid: d9147d43a9c85884ba129229403cc106, type: 3}
+  - Lighting4: {fileID: 3600866691961787951, guid: b6b32ff2a294eaa4ea2a155ac12edca1, type: 3}
+  - Lighting5: {fileID: 3600866691961787951, guid: 095cb63de413b0747bebfd4553ad9947, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
